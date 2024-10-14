@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descubra como perder peso de forma saudável e eficaz com nosso método comprovado. Transforme seu corpo com nosso programa de emagrecimento.">
+    <meta name="keywords" content="emagrecimento, perder peso, dieta, saúde, fitness, transformação corporal">
+    <meta name="author" content="Sua Empresa">
+    <title>Transforme seu Corpo - Programa de Emagrecimento</title>
+
+    <!-- Estilos Básicos -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #ff5733;
+            color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+
+        .cta-button {
+            background-color: #27ae60;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.5em;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin: 20px 0;
+            transition: background-color 0.3s;
+        }
+
+        .cta-button:hover {
+            background-color: #2ecc71;
+        }
+
+        section {
+            padding: 60px 0;
+        }
+
+        .title-section {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .title-section h2 {
+            font-size: 2em;
+            color: #ff5733;
+        }
+
+        .benefits,
+        .testimonials {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 50px;
+        }
+
+        .benefit-item,
+        .testimonial-item {
+            flex-basis: 30%;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .testimonial-item img {
+            max-width: 100px;
+            border-radius: 50%;
+        }
+
+        .testimonial-item p {
+            font-style: italic;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 40px 0;
+        }
+
+        footer a {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        .faq {
+            margin-top: 40px;
+        }
+
+        .faq h3 {
+            font-size: 1.5em;
+        }
+
+        .faq-item {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+        }
+
+        .faq-item h4 {
+            margin: 0;
+        }
+
+        .faq-item p {
+            margin-top: 5px;
+        }
+
+        .cta {
+            text-align: center;
+        }
+
+        .discount {
+            color: red;
+            font-weight: bold;
+        }
+
+        .bonus {
+            margin: 30px 0;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border: 1px dashed #ff5733;
+        }
+
+        .bonus h3 {
+            color: #ff5733;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Transforme Seu Corpo Agora</h1>
+        <p>Descubra o método que já ajudou milhares de pessoas a perder peso de forma rápida e saudável!</p>
+        <a href="#cta" class="cta-button">Quero Emagrecer Agora</a>
+    </header>
+
+    <div class="container">
+
+        <!-- Quem Somos -->
+        <section>
+            <div class="title-section">
+                <h2>Por Que Nosso Programa Funciona?</h2>
+                <p>Nosso método é 100% baseado em ciência e já transformou a vida de milhares de pessoas. É a solução definitiva para você alcançar o corpo dos seus sonhos!</p>
+            </div>
+            <div class="benefits">
+                <div class="benefit-item">
+                    <h3>Resultados Rápidos</h3>
+                    <p>Queime gordura de forma rápida e mantenha o peso ideal para sempre.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>Sem Dietas Extremas</h3>
+                    <p>Desfrute das comidas que você ama enquanto perde peso de forma saudável.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>Suporte Completo</h3>
+                    <p>Receba acompanhamento e motivação o tempo todo para garantir que você alcance seus objetivos.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Depoimentos -->
+        <section>
+            <div class="title-section">
+                <h2>Histórias de Sucesso</h2>
+                <p>Veja o que nossos alunos estão dizendo:</p>
+            </div>
+            <div class="testimonials">
+                <div class="testimonial-item">
+                    <img src="https://via.placeholder.com/100" alt="Depoimento 1">
+                    <p>"Perdi 15 kg em 3 meses com o programa! É incrível como mudou minha vida!"</p>
+                    <h4>- Maria Silva</h4>
+                </div>
+                <div class="testimonial-item">
+                    <img src="https://via.placeholder.com/100" alt="Depoimento 2">
+                    <p>"Estou muito mais saudável e confiante. Recomendo para todos!"</p>
+                    <h4>- João Santos</h4>
+                </div>
+                <div class="testimonial-item">
+                    <img src="https://via.placeholder.com/100" alt="Depoimento 3">
+                    <p>"Nunca me senti tão bem! Perdi peso sem sacrifícios e de forma natural."</p>
+                    <h4>- Ana Costa</h4>
+                </div>
+            </div>
+        </section>
+
+        <!-- Bônus -->
+        <section>
+            <div class="bonus">
+                <h3>BÔNUS EXCLUSIVOS - SÓ HOJE!</h3>
+                <ul>
+                    <li><strong>Bônus 1:</strong> E-book "Receitas Saudáveis Que Aceleram o Metabolismo".</li>
+                    <li><strong>Bônus 2:</strong> Acesso a Grupo VIP de Suporte no WhatsApp.</li>
+                    <li><strong>Bônus 3:</strong> Aula Exclusiva de Meditação para Controle de Ansiedade.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Garantia -->
+        <section class="cta">
+            <h2>Garantia Incondicional de 30 Dias</h2>
+            <p>Se você não estiver completamente satisfeito com os resultados, devolvemos 100% do seu dinheiro. Sem perguntas, sem complicações!</p>
+            <p class="discount">De R$ 497,00 por apenas R$ 197,00!</p>
+            <a href="#cta" class="cta-button">Quero Começar Agora!</a>
+        </section>
+
+        <!-- FAQ -->
+        <section class="faq">
+            <h3>Perguntas Frequentes</h3>
+            <div class="faq-item">
+                <h4>Em quanto tempo verei resultados?</h4>
+                <p>Com o nosso programa, você pode ver mudanças significativas em até 4 semanas.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Preciso de algum equipamento especial?</h4>
+                <p>Não! Todo o programa pode ser feito com o peso do seu próprio corpo.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Existe acompanhamento?</h4>
+                <p>Sim, você terá acesso a um suporte completo e contínuo, além de um grupo exclusivo no WhatsApp.</p>
+            </div>
+        </section>
+    </div>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2024 Transforme Seu Corpo. Todos os direitos reservados. <a href="#">Política de Privacidade</a> | <a href="#">Termos de Uso</a></p>
+        <p>Contato: suporte@transformeseucorpo.com</p>
+    </footer>
+
+</body>
+
+</html>
